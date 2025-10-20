@@ -27,7 +27,7 @@
 }
 
 .container__imagem {
-  padding: 0.5sem;
+  padding: 0.5em;
 }
 .lista-menu {
   display: none;
@@ -142,4 +142,5 @@
     display: block;
   }
 }
+
 
